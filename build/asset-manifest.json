@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zach/static/css/main.8787090c.css",
+    "main.js": "/zach/static/js/main.a206f3cf.js",
+    "static/js/453.7e68fc07.chunk.js": "/zach/static/js/453.7e68fc07.chunk.js",
+    "index.html": "/zach/index.html",
+    "main.8787090c.css.map": "/zach/static/css/main.8787090c.css.map",
+    "main.a206f3cf.js.map": "/zach/static/js/main.a206f3cf.js.map",
+    "453.7e68fc07.chunk.js.map": "/zach/static/js/453.7e68fc07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8787090c.css",
+    "static/js/main.a206f3cf.js"
+  ]
+}
