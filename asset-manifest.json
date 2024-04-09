@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-zack/static/css/main.8787090c.css",
+    "main.js": "/weather-zack/static/js/main.0a4f9539.js",
+    "static/js/453.7e68fc07.chunk.js": "/weather-zack/static/js/453.7e68fc07.chunk.js",
+    "index.html": "/weather-zack/index.html",
+    "main.8787090c.css.map": "/weather-zack/static/css/main.8787090c.css.map",
+    "main.0a4f9539.js.map": "/weather-zack/static/js/main.0a4f9539.js.map",
+    "453.7e68fc07.chunk.js.map": "/weather-zack/static/js/453.7e68fc07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8787090c.css",
+    "static/js/main.0a4f9539.js"
+  ]
+}
